@@ -1,0 +1,22 @@
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: #F9F7F7;
+    
+    color: #112D4E;
+   } 
+
+.navbar {
+    background-color: #3F72AF;
+    padding: 1px;
+}
+
+h1 {
+    text-align: center;
+    padding: 25px;
+}
+
+#news, div {
+    padding: 10px;
+    
+}
+
